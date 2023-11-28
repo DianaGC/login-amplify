@@ -1,0 +1,10 @@
+.container2{
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+    height: auto;
+}
+
+.textLabel{
+    text-align: center;
+}
