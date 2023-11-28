@@ -18,3 +18,10 @@ You may also see any lint errors in the console.
 ## Testing
 
 ### `npm test`
+
+## Points to improve
+1. It can be improved by implementing redux to better manage state
+2. It can be improved to implement thunks to consume the APIs
+3. It can be improved by implementing protected routes
+4. The login interface can be improved
+5. Complete the tests 
